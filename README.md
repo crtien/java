@@ -1,4 +1,4 @@
 # java
 Simple projects in Java
 
-Author: Tien Tran (Tony)
+Implementor: Tien Tran (Tony)
